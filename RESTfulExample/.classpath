@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.1/activation-1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.2/commons-codec-1.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar" sourcepath="M2_REPO/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpclient/4.0.3/httpclient-4.0.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javassist/javassist/3.12.1.GA/javassist-3.12.1.GA.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jboss/resteasy/jaxrs-api/2.2.1.GA/jaxrs-api-2.2.1.GA.jar"/>
+	<classpathentry kind="var" path="M2_REPO/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/4.8.2/junit-4.8.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jboss/resteasy/resteasy-jaxrs/2.2.1.GA/resteasy-jaxrs-2.2.1.GA.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/scannotation/scannotation/1.0.3/scannotation-1.0.3.jar"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/bin/bootstrap.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/bin/commons-daemon.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/bin/tomcat-juli.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/catalina-ssi.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/ecj-4.13.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/tomcat-i18n-cs.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/tomcat-i18n-de.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/tomcat-i18n-ko.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/tomcat-i18n-pt-BR.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/tomcat-i18n-ru.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/tomcat-i18n-zh-CN.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="C:/Java Training/apache-tomcat-9.0.31/lib/websocket-api.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
